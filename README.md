@@ -107,13 +107,6 @@ npm start
     
 </h2>
 
-[Dewansh Chandra](https://github.com/Dewansh36)
-
-[Hriday Garg](https://github.com/Mercury1508)
-
-[Linken Vashistha](https://github.com/linkenvashistha)
-
-[Parthiv Sarkar](https://github.com/parthiv360)
 
 <br>
 <h3 align="center">🍰 Thank You and Have a great Day.</h3>
