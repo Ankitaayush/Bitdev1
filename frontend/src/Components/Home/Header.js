@@ -1,6 +1,6 @@
 import React from 'react'
 
-import logo from '../../Public/image/Picture2.png'
+import logo from '../../Public/image/Picture1.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../../Public/css/home.css';
 import { Grid, Row, Col } from "react-bootstrap"

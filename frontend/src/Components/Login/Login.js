@@ -17,7 +17,7 @@ const Login=() => {
     const [username, setUsername]=useState('');
     const [loading, setLoading]=useState(false);
 
-    console.log(process.env.REACT_APP_Backend_url);
+    // console.log(process.env.REACT_APP_Backend_url);
 
     const notify=(message, type) => toast(`${message}`, { type: type });
 

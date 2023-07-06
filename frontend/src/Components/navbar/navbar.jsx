@@ -32,7 +32,7 @@ const Navbar=(props) => {
                 <div className="container-fluid">
                     <a href='/selectPage'>
                         <div>
-                            <img src={"https://res.cloudinary.com/dewansh/image/upload/v1655988645/BitDev/d1-removebg-preview_qnsbll.png"} className="Navbartoplogo" />
+                            <img src={logo} className="Navbartoplogo" />
                         </div>
                     </a>
                     <a className="navbar-brand fw-bold text-black" id="Navbartlogo" href="#">BitDev</a>

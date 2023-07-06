@@ -17,7 +17,7 @@ function App() {
       </div>
       <div className="full-screen">
         <div>
-          <h1 className='homeh1'>Mighty Byte</h1>
+          <h1 className='homeh1'>Bit Dev</h1>
           <br />
         </div>
       </div>

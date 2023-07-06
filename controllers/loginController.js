@@ -16,7 +16,7 @@ const transporter=nodemailer.createTransport(
 module.exports.verify=async (req, res, next) => {
     let user=req.body.user;
     user=await User.register(user, req.body.password);
-    req.logIn(user, (err) => {
+    req.login(user, (err) => {
         if (err) {
             console.log(err);
             res.send({ error: err.message });
@@ -85,17 +85,22 @@ module.exports.register=async (req, res, next) => {
 }
 
 module.exports.login=async (req, res, next) => {
-    // console.log(req.user);
-    console.log("abc-login")
-    res.send({
-        user: req.user,
-        success: "Welcome Back!"
-    });
-}
+
+    passport.authenticate('local', {
+   
+        successRedirect: '/cp',
+        failureRedirect: '/',
+        failureFlash: true
+      })(req, res);
+    
+      }
+   
+
 
 module.exports.getUser=async (req, res, next) => {
     console.log("abc-getuser:\n");
     console.log(req.user);
+    console.log("h2");
     console.log("abc-getUser")
     if (req.user==undefined) {
         res.send({ error: 'You Must be Logged In!' });
