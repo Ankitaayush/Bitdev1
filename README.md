@@ -1,5 +1,5 @@
 <h1 align="center">
-  MIGHTY-BYTE
+  BIT-DEV
 </h1>
 <p align="center">
 <a href="https://mighty--byte.herokuapp.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"/></a>
@@ -13,15 +13,10 @@
 <p align="center">
 <img src="https://res.cloudinary.com/dewansh/image/upload/v1657910118/BitDev/Screenshot_519_uvm8vh.png" alt="Launch-Page-Image"/>
 </p>
-<h1 align="center">
-  Contributors
+
   
-</h1>
-<p align="center">
-<a href="https://github.com/Dewansh36/Mighty-Byte/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Dewansh36/Mighty-Byte" />
-</a>
-</p>
+
+
 <br>
 <h1 align="center">
   Details
