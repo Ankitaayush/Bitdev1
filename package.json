@@ -43,7 +43,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"cd frontend && npm install && npm run build",
+    "build":"npm install && cd frontend && npm install && npm run build",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
