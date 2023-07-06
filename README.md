@@ -1,18 +1,7 @@
 <h1 align="center">
   BIT-DEV
 </h1>
-<p align="center">
-<a href="https://mighty--byte.herokuapp.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"/></a>
-<a href="https://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
-<a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg"/></a>
-<a href="https://github.com/Dewansh36/Mighty-Byte/commits/master" target="_blank"><img src="https://badgen.net/github/commits/Naereen/Strapdown.js"/></a>
-<a href="https://github.com/Dewansh36/Mighty-Byte/fork" target="_blank"><img src="https://img.shields.io/github/forks/Dewansh36/Mighty-Byte"/></a>
-<a href="https://github.com/Dewansh36/Mighty-Byte/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/Dewansh36/Mighty-Byte"/></a>
-</p>
 
-<p align="center">
-<img src="https://res.cloudinary.com/dewansh/image/upload/v1657910118/BitDev/Screenshot_519_uvm8vh.png" alt="Launch-Page-Image"/>
-</p>
 
   
 
@@ -24,7 +13,7 @@
 </h1>
 <h2 align="center">
    🚀 Website Link
-  <a href="https://mighty--byte.herokuapp.com/">
+  <a href="https://bituio.onrender.com/">
   <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" />
 </a>
 <br>
@@ -97,7 +86,7 @@ npm start
    🙇 About Us:
     <br>
     <h3 align="">
-        We are the students of Birla Institute of Technology,Mesra. Link to our personal github handles 
+        We are the students of Birla Institute of Technology,Mesra.  
     </h3>
     
 </h2>
