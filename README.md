@@ -60,7 +60,7 @@
 1> Clone the Repository
 
 ```bash
-git clone https://github.com/Dewansh36/Mighty-Byte
+git clone https://github.com/Ankitaayush/Bitdev1.git
 ```
 
 2> Install the dependencies
